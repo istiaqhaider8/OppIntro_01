@@ -1,0 +1,7 @@
+C:\Users\Istiaq\source\repos\OppIntroApp-01\OppIntroApp-01\bin\Debug\OppIntroApp-01.exe.config
+C:\Users\Istiaq\source\repos\OppIntroApp-01\OppIntroApp-01\bin\Debug\OppIntroApp-01.exe
+C:\Users\Istiaq\source\repos\OppIntroApp-01\OppIntroApp-01\bin\Debug\OppIntroApp-01.pdb
+C:\Users\Istiaq\source\repos\OppIntroApp-01\OppIntroApp-01\obj\Debug\OppIntroApp-01.csproj.AssemblyReference.cache
+C:\Users\Istiaq\source\repos\OppIntroApp-01\OppIntroApp-01\obj\Debug\OppIntroApp-01.csproj.CoreCompileInputs.cache
+C:\Users\Istiaq\source\repos\OppIntroApp-01\OppIntroApp-01\obj\Debug\OppIntroApp-01.exe
+C:\Users\Istiaq\source\repos\OppIntroApp-01\OppIntroApp-01\obj\Debug\OppIntroApp-01.pdb
